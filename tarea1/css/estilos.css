@@ -1,0 +1,150 @@
+/*Jonathan Ali Corado Hernandez */
+/*18001211 */
+/* Seccion A*/
+/*Jonathan Ali Corado Hernandez */
+/*18001211 */
+/* Seccion A*/
+body, html {
+  height: 100%; }
+
+div h2 {
+  color: #0a0a0a;
+  text-align: left;
+  font-size: 20px;
+  width: 100%; }
+
+div h1 {
+  color: black;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  width: 100%; }
+
+div h4 {
+  color: black;
+  text-align: center;
+  font-size: 22px;
+  width: 100%; }
+
+div g {
+  color: #131212;
+  text-align: justify;
+  font-size: 18px;
+  width: 100%; }
+
+.celeste {
+  background-color: #2e63cc; }
+
+#principal {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #2e63cc;
+  padding: 30px;
+  position: relative;
+  left: -120px;
+  width: 1300px;
+  top: 15px; }
+
+#secundaria {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #28d34d;
+  padding: 30px;
+  position: relative;
+  left: -120px;
+  width: 1300px;
+  top: 25px; }
+
+#p {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  padding: 35px;
+  position: relative;
+  left: 50px; }
+
+#ppp {
+  float: left;
+  width: 421px;
+  height: 40px;
+  margin: 1px;
+  padding: 10px;
+  position: relative;
+  left: 10px; }
+
+#pp {
+  float: right;
+  width: 295px;
+  height: 45px;
+  margin: 2px;
+  padding: 35px;
+  position: relative;
+  left: 70px; }
+
+#H1 {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #c97f54;
+  padding: 30px; }
+
+#H2 {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #83c954;
+  padding: 30px; }
+
+#H3 {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #974fc0;
+  padding: 30px; }
+
+#papas {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #c97f54;
+  padding: 30px;
+  position: relative;
+  left: -180px;
+  width: 1080px; }
+
+#amigos {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #83c954;
+  padding: 30px;
+  position: relative;
+  left: 170px;
+  width: 1100px; }
+
+#mascotas {
+  -webkit-border-radius: 10px 15px 7px 10px;
+  -moz-border-radius: 10px 15px 7px 10px;
+  border-radius: 10px 15px 7px 10px;
+  margin: 10px;
+  background-color: #974fc0;
+  padding: 30px;
+  position: relative;
+  left: -180px;
+  width: 1200px; }
+
+/*Jonathan Ali Corado Hernandez */
+/*18001211 */
+/* Seccion A*/
+
+/*# sourceMappingURL=estilos.css.map */

@@ -1,0 +1,180 @@
+/*Jonathan Ali Corado Hernandez */
+/*18001211 */
+/* Seccion A*/
+body,html{
+    height: 100%;
+}
+
+div h2{
+    color:rgb(10, 10, 10);
+    text-align: left;
+    font-size: 20px;
+    width: 100%;
+    
+}
+
+
+div h1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    width: 100%;
+    
+}
+
+
+
+
+
+div h4{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 22px;
+    width: 100%;
+    
+}
+
+
+div g{
+    color:rgb(19, 18, 18);
+    text-align: justify;
+
+    font-size: 18px;
+  
+    width: 100%;
+}
+.celeste{
+    background-color: rgb(46, 99, 204);
+}
+
+#principal{
+    -webkit-border-radius: 10px 15px 7px 10px;
+    -moz-border-radius: 10px 15px 7px 10px;
+    border-radius: 10px 15px 7px 10px;
+    margin: 10px;
+    background-color: $principal;
+    padding: 30px;
+    position: relative;
+    left: -120px;
+    width: 1300px;
+    top: 15px;
+    }
+
+    #secundaria{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $secundaria;
+        padding: 30px;
+        position: relative;
+        left: -120px;
+        width: 1300px;
+        top: 25px;
+        }
+
+       #p{
+           float: left;
+           width: 100px;
+           height: 100px;
+           margin: 2px;
+           padding: 35px;
+          position: relative;
+          left: 50px;
+           
+       } 
+
+       
+       #ppp{
+        float: left;
+        width: 421px;
+        height: 40px;
+        margin: 1px;
+        padding: 10px;
+        position: relative;
+        left: 10px;
+    
+        
+    } 
+
+
+
+
+
+       #pp{
+        float: right;
+        width: 295px;
+        height: 45px;
+        margin: 2px;
+        padding: 35px;
+        position: relative;
+        left: 70px;
+        
+    } 
+
+       #H1{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $hobbie1;
+        padding: 30px;
+       }
+
+       #H2{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $hobbie2;
+        padding: 30px;
+       }
+
+       #H3{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $hobbie3;
+        padding: 30px;
+       }
+
+
+       #papas{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $papas;
+        padding: 30px;
+        position: relative;
+        left: -180px;
+        width: 1080px;
+        
+       }
+
+       #amigos{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $amigos;
+        padding: 30px;
+        position: relative;
+        left: 170px;
+        width: 1100px;
+       
+       }
+
+       #mascotas{
+        -webkit-border-radius: 10px 15px 7px 10px;
+        -moz-border-radius: 10px 15px 7px 10px;
+        border-radius: 10px 15px 7px 10px;
+        margin: 10px;
+        background-color: $mascotas;
+        padding: 30px;
+        position: relative;
+        left: -180px;
+        width: 1200px;
+       }
